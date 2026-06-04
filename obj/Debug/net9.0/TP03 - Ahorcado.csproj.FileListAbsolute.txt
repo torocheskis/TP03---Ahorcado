@@ -93,5 +93,5 @@ Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\refint\TP03 - Ahorcado
 Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.pdb
 Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.genruntimeconfig.cache
 Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\ref\TP03 - Ahorcado.dll
-Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\03jqcqy8p7-dh97uwaoak.gz
 Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\5lc7ps0pmq-7szepc1jgj.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\4qsif5v897-qe2tdlf1f1.gz

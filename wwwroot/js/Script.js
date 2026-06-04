@@ -17,6 +17,11 @@ window.onload = function ()
 
 function ArriesgarLetra()
 {
+    if(intentos == 0 || !palabraOculta.includes("_"))
+    {
+        return;
+    }
+
     let letra = document.getElementById("letra").value;
 
     letra = letra.toUpperCase();
@@ -40,17 +45,25 @@ function ArriesgarLetra()
     document.getElementById("palabraOculta").innerHTML =
     palabraOculta.join(" ");
 
-    document.getElementById("intentos").innerHTML = "Intentos restantes: " + intentos;
+    document.getElementById("intentos").innerHTML =
+    "Intentos restantes: " + intentos;
+if(!palabraOculta.includes("_"))
+{
+    document.getElementById("mensaje").innerHTML = "Felicidades, ganaste";
+    document.getElementById("mensaje").style.color = "green";
 
-    if(!palabraOculta.includes("_"))
-    {
-        document.getElementById("mensaje").innerHTML = "GANASTE";
-    }
+    document.getElementById("letra").disabled = true;
+}
 
-    if(intentos == 0)
-    {
-        document.getElementById("mensaje").innerHTML = "PERDISTE, la palabra era: " + palabra;
-    }
+if(intentos == 0)
+{
+    document.getElementById("mensaje").innerHTML =
+    "Perdiste, la palabra era: " + palabra;
+
+    document.getElementById("mensaje").style.color = "red";
+
+    document.getElementById("letra").disabled = true;
+}
 
     document.getElementById("letra").value = "";
 }
