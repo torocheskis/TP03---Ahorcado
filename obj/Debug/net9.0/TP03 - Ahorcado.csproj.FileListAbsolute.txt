@@ -1,0 +1,97 @@
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.AssemblyInfoInputs.cache
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.AssemblyInfo.cs
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.csproj.CoreCompileInputs.cache
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.MvcApplicationPartsAssemblyInfo.cache
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.RazorAssemblyInfo.cache
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.RazorAssemblyInfo.cs
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\appsettings.Development.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\appsettings.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\TP03 - Ahorcado.staticwebassets.runtime.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\TP03 - Ahorcado.staticwebassets.endpoints.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\TP03 - Ahorcado.exe
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\TP03 - Ahorcado.deps.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\TP03 - Ahorcado.runtimeconfig.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\TP03 - Ahorcado.dll
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\bin\Debug\net9.0\TP03 - Ahorcado.pdb
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\scopedcss\bundle\TP03 - Ahorcado.styles.css
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\scopedcss\projectbundle\TP03 - Ahorcado.bundle.scp.css
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\axdvklxqhe-61n19gt1b8.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\6qc212v5eh-xtxxf3hu2r.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\t14z31b0rm-bqjiyaj88i.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\6b3e2tp1je-c2jlpeoesf.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\6u4sgb6ar3-erw9l3u2r3.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\8cwdmq4ygn-aexeepp0ev.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\gp5qfy9sop-d7shbmvgxk.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\936prf961x-ausgxo2sd3.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\0t2xy55w1k-k8d9w2qqmf.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\ofs34br7y8-cosvhxvwiu.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\vdumz4kb9w-ub07r2b239.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\y8m856f41z-fvhpjtyr6v.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\nbskld97m9-b7pk76d08c.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\w4zbertatb-fsbi9cje9m.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\o3gczr3gk3-rzd6atqjts.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\xznis4vc6q-ee0r1s7dh0.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\8u4jpot3pz-dxx9fxp4il.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\7kmqi4dguv-jd9uben2k1.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\v9a8hjz03r-khv3u5hwcm.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\xsqttiia3q-r4e9w2rdcm.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\lj8scu2zq3-lcd1t2u6c8.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\fb219lob5l-c2oey78nd0.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\061nrcivgt-tdbxkamptv.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\5ejw4d63r0-j5mq2jizvt.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\iwmxj81cf2-06098lyss8.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\1hf3flysjn-nvvlpmu67g.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\0td6jvgj2m-s35ty4nyc5.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\3gdbiekdsm-pj5nd1wqec.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\2xq6hnxdvq-46ein0sx1k.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\mv848q7ptk-v0zj4ognzu.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\41rk8zq8zz-37tfw0ft22.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\onzxjoxxef-hrwsygsryq.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\nf1mhzsjso-pk9g2wxc8p.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\t9998yb69w-ft3s53vfgj.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\cu888zzfqp-6cfz1n2cew.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\ajz5659g4j-6pdc2jztkx.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\i0hesqtmbu-493y06b0oq.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\4ug32w8nyk-iovd86k7lj.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\yr97clwydp-vr1egmr9el.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\wccz1epdnk-kbrnm935zg.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\pcray819wr-jj8uyg4cgr.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\yqq42slug5-y7v9cxd14o.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\2vpx3q2vmf-notf2xhcfb.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\f31fueve99-h1s4sie4z3.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\k27f3k6whf-63fj8s7r0e.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\j8yrxpkhpa-0j3bgjxly4.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\9u32akmi3x-47otxtyo56.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\h1dmouvsqm-4v8eqarkd7.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\8qjy5h9thm-356vix0kms.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\9xpng3pt8w-83jwlth58m.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\tktrueb6s3-mrlpezrjn3.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\6onsctfdyb-lzl9nlhx6b.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\iufktelivt-ag7o75518u.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\gxdo998zcz-x0q3zqp4vz.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\l4i6sngb0k-0i3buxo5is.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\sft5o8fva9-o1o13a6vjx.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\v0dkzueqyi-ttgo8qnofa.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\zzsn44kcrf-2z0ns9nrw6.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\nmsklr141g-muycvpuwrr.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\pu9hrtwivq-87fc7y1x7t.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\ombq80p9mm-mlv21k5csn.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\mrzwe7eutl-tv2vr3e4ak.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\yrn1dv7heo-tv2vr3e4ak.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\staticwebassets.build.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\staticwebassets.build.json.cache
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\staticwebassets.development.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.dll
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\refint\TP03 - Ahorcado.dll
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.pdb
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\TP03 - Ahorcado.genruntimeconfig.cache
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\ref\TP03 - Ahorcado.dll
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\03jqcqy8p7-dh97uwaoak.gz
+Z:\AÑO2026\PROGRAMACION\TP03 - Ahorcado\obj\Debug\net9.0\compressed\5lc7ps0pmq-7szepc1jgj.gz

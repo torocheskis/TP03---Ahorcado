@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Ahorcado";
+}
+
+<div class="juego">
+    <h1>AHORCADO</h1>
+    <p>Deberas adivinar la palabra, letra por letra</p>
+
+    <input type = "hidden" id = "palabra" value = "@ViewBag.palabra">
+
+    <h2 id = "palabraOculta"></h2>
+
+    <h3>
+        <p id="intentos"> Intentos restantes: 10 </p>
+    </h3>
+
+    <label>Por favor ingrese una letra: </label>
+
+    <input type = "text" id = "letra" maxlength = "1">
+
+    <br></br>
+
+    <button onclick = "ArriesgarLetra()">
+        Arriesgar
+    </button>
+
+    <h2 id = "mensaje"></h2>
+</div>
+
+<script src="~/js/script.js"></script>
