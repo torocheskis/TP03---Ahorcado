@@ -45,22 +45,22 @@ function ArriesgarLetra()
 
     document.getElementById("intentos").innerHTML ="Intentos restantes: " + intentos;
 
-if(!palabraOculta.includes("_"))
-{
-    document.getElementById("mensaje").innerHTML = "Felicidades, ganaste";
-    document.getElementById("mensaje").style.color = "green";
+    if(!palabraOculta.includes("_"))
+    {
+        document.getElementById("mensaje").innerHTML = "Felicidades, ganaste";
+        document.getElementById("mensaje").style.color = "green";
 
-    document.getElementById("letra").disabled = true;
-}
+        document.getElementById("letra").disabled = true;
+    }
 
-if(intentos == 0)
-{
-    document.getElementById("mensaje").innerHTML = "Perdiste, la palabra era: " + palabra;
+    if(intentos == 0)
+    {
+        document.getElementById("mensaje").innerHTML = "Perdiste, la palabra era: " + palabra;
 
-    document.getElementById("mensaje").style.color = "red";
+        document.getElementById("mensaje").style.color = "red";
 
-    document.getElementById("letra").disabled = true;
-}
+        document.getElementById("letra").disabled = true;
+    }
 
     document.getElementById("letra").value = "";
 }
