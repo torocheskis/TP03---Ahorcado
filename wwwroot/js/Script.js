@@ -11,8 +11,7 @@ window.onload = function ()
         palabraOculta.push("_");
     }
 
-    document.getElementById("palabraOculta").innerHTML =
-    palabraOculta.join(" ");
+    document.getElementById("palabraOculta").innerHTML = palabraOculta.join(" ");
 }
 
 function ArriesgarLetra()
@@ -42,11 +41,10 @@ function ArriesgarLetra()
         intentos--;
     }
 
-    document.getElementById("palabraOculta").innerHTML =
-    palabraOculta.join(" ");
+    document.getElementById("palabraOculta").innerHTML = palabraOculta.join(" ");
 
-    document.getElementById("intentos").innerHTML =
-    "Intentos restantes: " + intentos;
+    document.getElementById("intentos").innerHTML ="Intentos restantes: " + intentos;
+
 if(!palabraOculta.includes("_"))
 {
     document.getElementById("mensaje").innerHTML = "Felicidades, ganaste";
@@ -57,8 +55,7 @@ if(!palabraOculta.includes("_"))
 
 if(intentos == 0)
 {
-    document.getElementById("mensaje").innerHTML =
-    "Perdiste, la palabra era: " + palabra;
+    document.getElementById("mensaje").innerHTML = "Perdiste, la palabra era: " + palabra;
 
     document.getElementById("mensaje").style.color = "red";
 
